@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dsa_vis/static/css/main.3c798adc.css",
+    "main.js": "/dsa_vis/static/js/main.39136c83.js",
+    "static/js/453.92eee26a.chunk.js": "/dsa_vis/static/js/453.92eee26a.chunk.js",
+    "index.html": "/dsa_vis/index.html",
+    "main.3c798adc.css.map": "/dsa_vis/static/css/main.3c798adc.css.map",
+    "main.39136c83.js.map": "/dsa_vis/static/js/main.39136c83.js.map",
+    "453.92eee26a.chunk.js.map": "/dsa_vis/static/js/453.92eee26a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c798adc.css",
+    "static/js/main.39136c83.js"
+  ]
+}
