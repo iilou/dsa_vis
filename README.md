@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab96e1dc-8c32-4926-8798-57e52bfccb5d)# DSA Visualizer
+# DSA Visualizer
 
 React website that helps visualize common data structures and algorithms with incredible interactivity and elegant user interface.
 
