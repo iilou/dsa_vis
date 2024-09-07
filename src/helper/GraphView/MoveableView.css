@@ -1,0 +1,23 @@
+.moveable_view{
+    width:1000px;
+    height:500px;
+    border: 5px solid black;
+    position: relative;
+    z-index:-10;
+    background-color:#d6d6d6;
+
+    /* margin:auto; */
+}
+
+/* .moveable_view:hover{
+    background-color:blue;
+} */
+
+.grid_line{
+    position: absolute;
+    background-color: #a8a8a8;
+}
+
+.moveable_view div{
+    z-index: -10;
+}
