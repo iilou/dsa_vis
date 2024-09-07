@@ -8,14 +8,12 @@ import Tree from './pages/Tree/Tree';
 function App() {
   return (
     <>
-      <Router>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/search" element={<Search />} />
           <Route path="/tree" element={<Tree />} />
           <Route path="*" element={<Home />} />
         </Routes>
-      </Router>
     </>
   );
 }
